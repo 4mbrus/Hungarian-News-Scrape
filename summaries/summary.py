@@ -15,5 +15,9 @@ for site in sites:
     combined_df = combined_df.merge(temp_df, how="outer", on=["date","topic"])
 
 # %%
+var_cols = combined_df.columns[2:]
+combined_df = pd.melt(combined_df, id_vars=["date", "topic"], value_vars=var_cols, var_name="news_site", value_name="n_of_articles")
+combined_df
+#%%
 combined_df.to_csv("combined_binary_summary.csv")
 # %%

@@ -1,71 +1,281 @@
-,date,topic,telex,mandiner,hvg,mn
-0,2025-12-20,DK,0,,,
-1,2025-12-20,Fidesz,2,,,
-2,2025-12-20,Jobbik,0,,,
-3,2025-12-20,Karácsony Gergely,0,,,
-4,2025-12-20,Lázár János,1,,,
-5,2025-12-20,MSZP,0,,,
-6,2025-12-20,Magyar Péter,1,,,
-7,2025-12-20,Mi Hazánk,0,,,
-8,2025-12-20,Momentum,0,,,
-9,2025-12-20,Orbán Viktor,2,,,
-10,2025-12-20,Putyin,0,,,
-11,2025-12-20,Tisza Párt,1,,,
-12,2025-12-20,Trump,1,,,
-13,2025-12-20,Zelenszkij,0,,,
-14,2025-12-21,DK,4,,,
-15,2025-12-21,Fidesz,8,,,
-16,2025-12-21,Jobbik,0,,,
-17,2025-12-21,Karácsony Gergely,0,,,
-18,2025-12-21,Lázár János,6,,,
-19,2025-12-21,MSZP,0,,,
-20,2025-12-21,Magyar Péter,5,,,
-21,2025-12-21,Mi Hazánk,0,,,
-22,2025-12-21,Momentum,0,,,
-23,2025-12-21,Orbán Viktor,4,,,
-24,2025-12-21,Putyin,3,,,
-25,2025-12-21,Tisza Párt,4,,,
-26,2025-12-21,Trump,6,,,
-27,2025-12-21,Zelenszkij,2,,,
-28,2025-12-22,DK,1,,,
-29,2025-12-22,Fidesz,9,,,
-30,2025-12-22,Jobbik,0,,,
-31,2025-12-22,Karácsony Gergely,1,,,
-32,2025-12-22,Lázár János,10,,,
-33,2025-12-22,MSZP,0,,,
-34,2025-12-22,Magyar Péter,9,,,
-35,2025-12-22,Mi Hazánk,0,,,
-36,2025-12-22,Momentum,0,,,
-37,2025-12-22,Orbán Viktor,9,,,
-38,2025-12-22,Putyin,1,,,
-39,2025-12-22,Tisza Párt,9,,,
-40,2025-12-22,Trump,9,,,
-41,2025-12-22,Zelenszkij,0,,,
-42,2025-12-23,DK,4,0.0,1.0,1.0
-43,2025-12-23,Fidesz,10,3.0,1.0,3.0
-44,2025-12-23,Jobbik,2,0.0,0.0,0.0
-45,2025-12-23,Karácsony Gergely,2,0.0,0.0,0.0
-46,2025-12-23,Lázár János,3,2.0,0.0,2.0
-47,2025-12-23,MSZP,2,1.0,0.0,0.0
-48,2025-12-23,Magyar Péter,5,6.0,1.0,6.0
-49,2025-12-23,Mi Hazánk,3,0.0,0.0,0.0
-50,2025-12-23,Momentum,2,0.0,2.0,0.0
-51,2025-12-23,Orbán Viktor,13,5.0,1.0,6.0
-52,2025-12-23,Putyin,5,6.0,0.0,0.0
-53,2025-12-23,Tisza Párt,3,5.0,1.0,7.0
-54,2025-12-23,Trump,15,6.0,2.0,5.0
-55,2025-12-23,Zelenszkij,4,8.0,1.0,2.0
-56,2025-12-24,DK,2,2.0,0.0,1.0
-57,2025-12-24,Fidesz,2,2.0,0.0,4.0
-58,2025-12-24,Jobbik,0,0.0,0.0,1.0
-59,2025-12-24,Karácsony Gergely,1,0.0,2.0,1.0
-60,2025-12-24,Lázár János,0,2.0,0.0,2.0
-61,2025-12-24,MSZP,0,0.0,0.0,1.0
-62,2025-12-24,Magyar Péter,4,4.0,0.0,3.0
-63,2025-12-24,Mi Hazánk,0,0.0,0.0,1.0
-64,2025-12-24,Momentum,1,0.0,0.0,1.0
-65,2025-12-24,Orbán Viktor,5,5.0,2.0,5.0
-66,2025-12-24,Putyin,4,3.0,1.0,1.0
-67,2025-12-24,Tisza Párt,0,3.0,0.0,2.0
-68,2025-12-24,Trump,5,8.0,2.0,4.0
-69,2025-12-24,Zelenszkij,3,3.0,2.0,3.0
+,date,topic,news_site,n_of_articles
+0,2025-12-20,DK,telex,0.0
+1,2025-12-20,Fidesz,telex,2.0
+2,2025-12-20,Jobbik,telex,0.0
+3,2025-12-20,Karácsony Gergely,telex,0.0
+4,2025-12-20,Lázár János,telex,1.0
+5,2025-12-20,MSZP,telex,0.0
+6,2025-12-20,Magyar Péter,telex,1.0
+7,2025-12-20,Mi Hazánk,telex,0.0
+8,2025-12-20,Momentum,telex,0.0
+9,2025-12-20,Orbán Viktor,telex,2.0
+10,2025-12-20,Putyin,telex,0.0
+11,2025-12-20,Tisza Párt,telex,1.0
+12,2025-12-20,Trump,telex,1.0
+13,2025-12-20,Zelenszkij,telex,0.0
+14,2025-12-21,DK,telex,4.0
+15,2025-12-21,Fidesz,telex,8.0
+16,2025-12-21,Jobbik,telex,0.0
+17,2025-12-21,Karácsony Gergely,telex,0.0
+18,2025-12-21,Lázár János,telex,6.0
+19,2025-12-21,MSZP,telex,0.0
+20,2025-12-21,Magyar Péter,telex,5.0
+21,2025-12-21,Mi Hazánk,telex,0.0
+22,2025-12-21,Momentum,telex,0.0
+23,2025-12-21,Orbán Viktor,telex,4.0
+24,2025-12-21,Putyin,telex,3.0
+25,2025-12-21,Tisza Párt,telex,4.0
+26,2025-12-21,Trump,telex,6.0
+27,2025-12-21,Zelenszkij,telex,2.0
+28,2025-12-22,DK,telex,1.0
+29,2025-12-22,Fidesz,telex,9.0
+30,2025-12-22,Jobbik,telex,0.0
+31,2025-12-22,Karácsony Gergely,telex,1.0
+32,2025-12-22,Lázár János,telex,10.0
+33,2025-12-22,MSZP,telex,0.0
+34,2025-12-22,Magyar Péter,telex,9.0
+35,2025-12-22,Mi Hazánk,telex,0.0
+36,2025-12-22,Momentum,telex,0.0
+37,2025-12-22,Orbán Viktor,telex,9.0
+38,2025-12-22,Putyin,telex,1.0
+39,2025-12-22,Tisza Párt,telex,9.0
+40,2025-12-22,Trump,telex,9.0
+41,2025-12-22,Zelenszkij,telex,0.0
+42,2025-12-23,DK,telex,4.0
+43,2025-12-23,Fidesz,telex,10.0
+44,2025-12-23,Jobbik,telex,2.0
+45,2025-12-23,Karácsony Gergely,telex,2.0
+46,2025-12-23,Lázár János,telex,3.0
+47,2025-12-23,MSZP,telex,2.0
+48,2025-12-23,Magyar Péter,telex,5.0
+49,2025-12-23,Mi Hazánk,telex,3.0
+50,2025-12-23,Momentum,telex,2.0
+51,2025-12-23,Orbán Viktor,telex,13.0
+52,2025-12-23,Putyin,telex,5.0
+53,2025-12-23,Tisza Párt,telex,3.0
+54,2025-12-23,Trump,telex,15.0
+55,2025-12-23,Zelenszkij,telex,4.0
+56,2025-12-24,DK,telex,2.0
+57,2025-12-24,Fidesz,telex,2.0
+58,2025-12-24,Jobbik,telex,0.0
+59,2025-12-24,Karácsony Gergely,telex,1.0
+60,2025-12-24,Lázár János,telex,0.0
+61,2025-12-24,MSZP,telex,0.0
+62,2025-12-24,Magyar Péter,telex,4.0
+63,2025-12-24,Mi Hazánk,telex,0.0
+64,2025-12-24,Momentum,telex,1.0
+65,2025-12-24,Orbán Viktor,telex,5.0
+66,2025-12-24,Putyin,telex,4.0
+67,2025-12-24,Tisza Párt,telex,0.0
+68,2025-12-24,Trump,telex,5.0
+69,2025-12-24,Zelenszkij,telex,3.0
+70,2025-12-20,DK,mandiner,
+71,2025-12-20,Fidesz,mandiner,
+72,2025-12-20,Jobbik,mandiner,
+73,2025-12-20,Karácsony Gergely,mandiner,
+74,2025-12-20,Lázár János,mandiner,
+75,2025-12-20,MSZP,mandiner,
+76,2025-12-20,Magyar Péter,mandiner,
+77,2025-12-20,Mi Hazánk,mandiner,
+78,2025-12-20,Momentum,mandiner,
+79,2025-12-20,Orbán Viktor,mandiner,
+80,2025-12-20,Putyin,mandiner,
+81,2025-12-20,Tisza Párt,mandiner,
+82,2025-12-20,Trump,mandiner,
+83,2025-12-20,Zelenszkij,mandiner,
+84,2025-12-21,DK,mandiner,
+85,2025-12-21,Fidesz,mandiner,
+86,2025-12-21,Jobbik,mandiner,
+87,2025-12-21,Karácsony Gergely,mandiner,
+88,2025-12-21,Lázár János,mandiner,
+89,2025-12-21,MSZP,mandiner,
+90,2025-12-21,Magyar Péter,mandiner,
+91,2025-12-21,Mi Hazánk,mandiner,
+92,2025-12-21,Momentum,mandiner,
+93,2025-12-21,Orbán Viktor,mandiner,
+94,2025-12-21,Putyin,mandiner,
+95,2025-12-21,Tisza Párt,mandiner,
+96,2025-12-21,Trump,mandiner,
+97,2025-12-21,Zelenszkij,mandiner,
+98,2025-12-22,DK,mandiner,
+99,2025-12-22,Fidesz,mandiner,
+100,2025-12-22,Jobbik,mandiner,
+101,2025-12-22,Karácsony Gergely,mandiner,
+102,2025-12-22,Lázár János,mandiner,
+103,2025-12-22,MSZP,mandiner,
+104,2025-12-22,Magyar Péter,mandiner,
+105,2025-12-22,Mi Hazánk,mandiner,
+106,2025-12-22,Momentum,mandiner,
+107,2025-12-22,Orbán Viktor,mandiner,
+108,2025-12-22,Putyin,mandiner,
+109,2025-12-22,Tisza Párt,mandiner,
+110,2025-12-22,Trump,mandiner,
+111,2025-12-22,Zelenszkij,mandiner,
+112,2025-12-23,DK,mandiner,0.0
+113,2025-12-23,Fidesz,mandiner,3.0
+114,2025-12-23,Jobbik,mandiner,0.0
+115,2025-12-23,Karácsony Gergely,mandiner,0.0
+116,2025-12-23,Lázár János,mandiner,2.0
+117,2025-12-23,MSZP,mandiner,1.0
+118,2025-12-23,Magyar Péter,mandiner,6.0
+119,2025-12-23,Mi Hazánk,mandiner,0.0
+120,2025-12-23,Momentum,mandiner,0.0
+121,2025-12-23,Orbán Viktor,mandiner,5.0
+122,2025-12-23,Putyin,mandiner,6.0
+123,2025-12-23,Tisza Párt,mandiner,5.0
+124,2025-12-23,Trump,mandiner,6.0
+125,2025-12-23,Zelenszkij,mandiner,8.0
+126,2025-12-24,DK,mandiner,2.0
+127,2025-12-24,Fidesz,mandiner,2.0
+128,2025-12-24,Jobbik,mandiner,0.0
+129,2025-12-24,Karácsony Gergely,mandiner,0.0
+130,2025-12-24,Lázár János,mandiner,2.0
+131,2025-12-24,MSZP,mandiner,0.0
+132,2025-12-24,Magyar Péter,mandiner,4.0
+133,2025-12-24,Mi Hazánk,mandiner,0.0
+134,2025-12-24,Momentum,mandiner,0.0
+135,2025-12-24,Orbán Viktor,mandiner,5.0
+136,2025-12-24,Putyin,mandiner,3.0
+137,2025-12-24,Tisza Párt,mandiner,3.0
+138,2025-12-24,Trump,mandiner,8.0
+139,2025-12-24,Zelenszkij,mandiner,3.0
+140,2025-12-20,DK,hvg,
+141,2025-12-20,Fidesz,hvg,
+142,2025-12-20,Jobbik,hvg,
+143,2025-12-20,Karácsony Gergely,hvg,
+144,2025-12-20,Lázár János,hvg,
+145,2025-12-20,MSZP,hvg,
+146,2025-12-20,Magyar Péter,hvg,
+147,2025-12-20,Mi Hazánk,hvg,
+148,2025-12-20,Momentum,hvg,
+149,2025-12-20,Orbán Viktor,hvg,
+150,2025-12-20,Putyin,hvg,
+151,2025-12-20,Tisza Párt,hvg,
+152,2025-12-20,Trump,hvg,
+153,2025-12-20,Zelenszkij,hvg,
+154,2025-12-21,DK,hvg,
+155,2025-12-21,Fidesz,hvg,
+156,2025-12-21,Jobbik,hvg,
+157,2025-12-21,Karácsony Gergely,hvg,
+158,2025-12-21,Lázár János,hvg,
+159,2025-12-21,MSZP,hvg,
+160,2025-12-21,Magyar Péter,hvg,
+161,2025-12-21,Mi Hazánk,hvg,
+162,2025-12-21,Momentum,hvg,
+163,2025-12-21,Orbán Viktor,hvg,
+164,2025-12-21,Putyin,hvg,
+165,2025-12-21,Tisza Párt,hvg,
+166,2025-12-21,Trump,hvg,
+167,2025-12-21,Zelenszkij,hvg,
+168,2025-12-22,DK,hvg,
+169,2025-12-22,Fidesz,hvg,
+170,2025-12-22,Jobbik,hvg,
+171,2025-12-22,Karácsony Gergely,hvg,
+172,2025-12-22,Lázár János,hvg,
+173,2025-12-22,MSZP,hvg,
+174,2025-12-22,Magyar Péter,hvg,
+175,2025-12-22,Mi Hazánk,hvg,
+176,2025-12-22,Momentum,hvg,
+177,2025-12-22,Orbán Viktor,hvg,
+178,2025-12-22,Putyin,hvg,
+179,2025-12-22,Tisza Párt,hvg,
+180,2025-12-22,Trump,hvg,
+181,2025-12-22,Zelenszkij,hvg,
+182,2025-12-23,DK,hvg,1.0
+183,2025-12-23,Fidesz,hvg,1.0
+184,2025-12-23,Jobbik,hvg,0.0
+185,2025-12-23,Karácsony Gergely,hvg,0.0
+186,2025-12-23,Lázár János,hvg,0.0
+187,2025-12-23,MSZP,hvg,0.0
+188,2025-12-23,Magyar Péter,hvg,1.0
+189,2025-12-23,Mi Hazánk,hvg,0.0
+190,2025-12-23,Momentum,hvg,2.0
+191,2025-12-23,Orbán Viktor,hvg,1.0
+192,2025-12-23,Putyin,hvg,0.0
+193,2025-12-23,Tisza Párt,hvg,1.0
+194,2025-12-23,Trump,hvg,2.0
+195,2025-12-23,Zelenszkij,hvg,1.0
+196,2025-12-24,DK,hvg,0.0
+197,2025-12-24,Fidesz,hvg,0.0
+198,2025-12-24,Jobbik,hvg,0.0
+199,2025-12-24,Karácsony Gergely,hvg,2.0
+200,2025-12-24,Lázár János,hvg,0.0
+201,2025-12-24,MSZP,hvg,0.0
+202,2025-12-24,Magyar Péter,hvg,0.0
+203,2025-12-24,Mi Hazánk,hvg,0.0
+204,2025-12-24,Momentum,hvg,0.0
+205,2025-12-24,Orbán Viktor,hvg,2.0
+206,2025-12-24,Putyin,hvg,1.0
+207,2025-12-24,Tisza Párt,hvg,0.0
+208,2025-12-24,Trump,hvg,2.0
+209,2025-12-24,Zelenszkij,hvg,2.0
+210,2025-12-20,DK,mn,
+211,2025-12-20,Fidesz,mn,
+212,2025-12-20,Jobbik,mn,
+213,2025-12-20,Karácsony Gergely,mn,
+214,2025-12-20,Lázár János,mn,
+215,2025-12-20,MSZP,mn,
+216,2025-12-20,Magyar Péter,mn,
+217,2025-12-20,Mi Hazánk,mn,
+218,2025-12-20,Momentum,mn,
+219,2025-12-20,Orbán Viktor,mn,
+220,2025-12-20,Putyin,mn,
+221,2025-12-20,Tisza Párt,mn,
+222,2025-12-20,Trump,mn,
+223,2025-12-20,Zelenszkij,mn,
+224,2025-12-21,DK,mn,
+225,2025-12-21,Fidesz,mn,
+226,2025-12-21,Jobbik,mn,
+227,2025-12-21,Karácsony Gergely,mn,
+228,2025-12-21,Lázár János,mn,
+229,2025-12-21,MSZP,mn,
+230,2025-12-21,Magyar Péter,mn,
+231,2025-12-21,Mi Hazánk,mn,
+232,2025-12-21,Momentum,mn,
+233,2025-12-21,Orbán Viktor,mn,
+234,2025-12-21,Putyin,mn,
+235,2025-12-21,Tisza Párt,mn,
+236,2025-12-21,Trump,mn,
+237,2025-12-21,Zelenszkij,mn,
+238,2025-12-22,DK,mn,
+239,2025-12-22,Fidesz,mn,
+240,2025-12-22,Jobbik,mn,
+241,2025-12-22,Karácsony Gergely,mn,
+242,2025-12-22,Lázár János,mn,
+243,2025-12-22,MSZP,mn,
+244,2025-12-22,Magyar Péter,mn,
+245,2025-12-22,Mi Hazánk,mn,
+246,2025-12-22,Momentum,mn,
+247,2025-12-22,Orbán Viktor,mn,
+248,2025-12-22,Putyin,mn,
+249,2025-12-22,Tisza Párt,mn,
+250,2025-12-22,Trump,mn,
+251,2025-12-22,Zelenszkij,mn,
+252,2025-12-23,DK,mn,1.0
+253,2025-12-23,Fidesz,mn,3.0
+254,2025-12-23,Jobbik,mn,0.0
+255,2025-12-23,Karácsony Gergely,mn,0.0
+256,2025-12-23,Lázár János,mn,2.0
+257,2025-12-23,MSZP,mn,0.0
+258,2025-12-23,Magyar Péter,mn,6.0
+259,2025-12-23,Mi Hazánk,mn,0.0
+260,2025-12-23,Momentum,mn,0.0
+261,2025-12-23,Orbán Viktor,mn,6.0
+262,2025-12-23,Putyin,mn,0.0
+263,2025-12-23,Tisza Párt,mn,7.0
+264,2025-12-23,Trump,mn,5.0
+265,2025-12-23,Zelenszkij,mn,2.0
+266,2025-12-24,DK,mn,1.0
+267,2025-12-24,Fidesz,mn,4.0
+268,2025-12-24,Jobbik,mn,1.0
+269,2025-12-24,Karácsony Gergely,mn,1.0
+270,2025-12-24,Lázár János,mn,2.0
+271,2025-12-24,MSZP,mn,1.0
+272,2025-12-24,Magyar Péter,mn,3.0
+273,2025-12-24,Mi Hazánk,mn,1.0
+274,2025-12-24,Momentum,mn,1.0
+275,2025-12-24,Orbán Viktor,mn,5.0
+276,2025-12-24,Putyin,mn,1.0
+277,2025-12-24,Tisza Párt,mn,2.0
+278,2025-12-24,Trump,mn,4.0
+279,2025-12-24,Zelenszkij,mn,3.0
