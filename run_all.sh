@@ -6,3 +6,5 @@ cd ..
 
 python "analyze.py"
 python "summarize.py"
+cd summaries
+python "summary.py"
