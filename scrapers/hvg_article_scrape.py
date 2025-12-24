@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 #%%
-hvg_db = pd.read_csv("../data_raw/hvg_db.csv", encoding='ISO-8859-2')
+hvg_db = pd.read_csv("../data_raw/hvg_db.csv")
 seen_links = list(hvg_db["link"])
 
 #%%
